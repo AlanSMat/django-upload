@@ -1,0 +1,9 @@
+/site
+.mypy_cache/
+.dmypy.json
+dmpy.json
+
+# Pyre type checker
+.pyre/
+
+/data
